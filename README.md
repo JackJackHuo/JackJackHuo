@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack Huo</h1>
 <h3 align="center">One the way toward becoming a coder</h3>
 
-- 🌱 I’m currently learning **Javascript, CSS, HTML, API**
+- 🌱 I’m currently learning **Javascript, CSS, HTML, API ,Vue**
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
